@@ -9,7 +9,7 @@ A equipe do projeto de pesquisa foi composta por:
 
 * Francinilson Rodrigues Lima - Autor do artigo e Discente do Curso de Ciência da Computação, IFCE Campus Tianguá
 * Profa. Ma. Anna Karolina Alves do Nascimento - Docente-coorientadora do TCC e Coordenadora do PICTV, IFCE Campus Tianguá
-* Adonias Caetano de Oliveira - Docente-orientador do Curso de Ciência da Computação, IFCE Campus Tianguá
+* Prof. Me. Adonias Caetano de Oliveira - Docente-orientador do Curso de Ciência da Computação, IFCE Campus Tianguá
 
 </p>
 
