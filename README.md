@@ -1,10 +1,8 @@
-
-<p align="center">
 # Descrições de Imagens: Uma Análise Comparativa entre descrições geradas por método tradicional e LLMs
 ## Programa de Iniciação Científica e Tcenológica Voluntária (PICTV) do IFCE 
+
 Este repositório contém os materiais elaborados, bem como, os dados coletados e anonimizados do projeto de pesquisa sobre avaliação de qualidade das descrições geradas por LLMs.
-<div align="justify">
-  
+
 Como fruto da pesquisa PICTV, o Trabalho de Conclusão de Curso (TCC) em forma de artigo foi elabaorado e submetido para defesa no curso de Bacharelado em Ciência da Computação do IFCE Campus Tianguá.
 
 A equipe do projeto de pesquisa foi composta por:
